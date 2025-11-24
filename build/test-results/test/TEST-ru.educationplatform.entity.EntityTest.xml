@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.educationplatform.entity.EntityTest" tests="15" skipped="0" failures="0" errors="0" timestamp="2025-11-24T14:01:35.775Z" hostname="DESKTOP-4OLLD4L" time="0.052">
+  <properties/>
+  <testcase name="shouldCreateCourseModule()" classname="ru.educationplatform.entity.EntityTest" time="0.032"/>
+  <testcase name="shouldCreateEnrollment()" classname="ru.educationplatform.entity.EntityTest" time="0.005"/>
+  <testcase name="shouldCreateQuestion()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateCourse()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateCourseReview()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateLesson()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateUserProfile()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateAssignment()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateTag()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateQuizSubmission()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateCategory()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateQuiz()" classname="ru.educationplatform.entity.EntityTest" time="0.0"/>
+  <testcase name="shouldCreateUser()" classname="ru.educationplatform.entity.EntityTest" time="0.0"/>
+  <testcase name="shouldCreateAnswerOption()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <testcase name="shouldCreateSubmission()" classname="ru.educationplatform.entity.EntityTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

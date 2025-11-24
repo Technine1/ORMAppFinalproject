@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.educationplatform.service.CourseServiceTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2025-11-24T14:01:36.524Z" hostname="DESKTOP-4OLLD4L" time="0.068">
+  <properties/>
+  <testcase name="shouldThrowExceptionWhenTeacherNotFound()" classname="ru.educationplatform.service.CourseServiceTest" time="0.058"/>
+  <testcase name="shouldCreateCourse()" classname="ru.educationplatform.service.CourseServiceTest" time="0.002"/>
+  <testcase name="shouldThrowExceptionWhenCourseNotFound()" classname="ru.educationplatform.service.CourseServiceTest" time="0.001"/>
+  <testcase name="shouldUpdateCourse()" classname="ru.educationplatform.service.CourseServiceTest" time="0.001"/>
+  <testcase name="shouldGetCourseById()" classname="ru.educationplatform.service.CourseServiceTest" time="0.001"/>
+  <testcase name="shouldDeleteCourse()" classname="ru.educationplatform.service.CourseServiceTest" time="0.001"/>
+  <testcase name="shouldThrowExceptionWhenCategoryNotFound()" classname="ru.educationplatform.service.CourseServiceTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
