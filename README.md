@@ -50,7 +50,8 @@ Gradle (или используйте ./gradlew)
 Bash./gradlew bootRun --args='--spring.profiles.active=h2'
 → Приложение запустится мгновенно, база создастся автоматически.
 Вариант Б — с PostgreSQL (через Docker Compose)
-Bashdocker-compose up -d          # поднимет PostgreSQL + приложение
+Bashdocker-compose up -d         
+# поднимет PostgreSQL + приложение
 # или только базу:
 docker-compose up postgres -d
 После этого приложение доступно по адресу http://localhost:8080
